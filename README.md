@@ -43,7 +43,7 @@ Contains training output for all 20 Epocs
 Used the above Trained model (Trained from Edge Detected Output) to Test it against our Hand Drawn Images. The Results were pretty awesomne but we are still facing some issue to get a clear output.
 
 
-To See the Ouptut Look at the Images tagged with 'fake_b' in their name in the Images folder of Actual_Wireframe_Mockup
+To See the Ouptut Look at the Images tagged with 'fake_b' in their name in the Images folder of Actual_Wireframe_Mockup in Results Directory
 
 For any other Information please Directly contact:
 Sameer Shanbhag (mailto:sshanbh1@uncc.edu)
