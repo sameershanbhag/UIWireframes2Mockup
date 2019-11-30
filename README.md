@@ -40,14 +40,11 @@ Wireframes_Original_Complete_Dataset contains more images as compared to Process
 Contains two folders: 
 
 1. Edge_Detected_2_Mockup
-------
-
 Contains training output for all 20 Epocs
 
 2. Actual_Wireframe_Mockup
-------
-
 Used the above Trained model (Trained from Edge Detected Output) to Test it against our Hand Drawn Images. The Results were pretty awesomne but we are still facing some issue to get a clear output.
+
 
 To See the Ouptut Look at the Images tagged with 'fake_b' in their name in the Images folder of Actual_Wireframe_Mockup
 
