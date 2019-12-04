@@ -3,9 +3,13 @@ Solving a Computer Vision Problem of converting UI Wireframes to Mockups
 
 # Contents
 Edge_Detected_Images_300_Images
+
 Edge_Detected_Images_Complete_Dataset
+
 Mockups_Complete_Dataset
+
 Wireframes_Processed_200_Images
+
 Wireframes_Original_Complete_Dataset
 
 ## Edge_Detected_Images_300_Images and Edge_Detected_Images_Complete_Dataset
@@ -45,6 +49,9 @@ Used the above Trained model (Trained from Edge Detected Output) to Test it agai
 To See the Ouptut Look at the Images tagged with 'fake_b' in their name in the Images folder of Actual_Wireframe_Mockup in Results Directory
 
 For any other Information please Directly contact:
+
 Sameer Shanbhag (mailto:sshanbh1@uncc.edu)
+
 Pranav Kamble (mailto:pkamble@uncc.edu)
+
 
