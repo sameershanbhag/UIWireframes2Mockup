@@ -2,12 +2,11 @@
 Solving a Computer Vision Problem of converting UI Wireframes to Mockups
 
 # Contents
-
-### Edge_Detected_Images_300_Images
-### Edge_Detected_Images_Complete_Dataset
-### Mockups_Complete_Dataset
-### Wireframes_Processed_200_Images
-### Wireframes_Original_Complete_Dataset
+Edge_Detected_Images_300_Images
+Edge_Detected_Images_Complete_Dataset
+Mockups_Complete_Dataset
+Wireframes_Processed_200_Images
+Wireframes_Original_Complete_Dataset
 
 ## Edge_Detected_Images_300_Images and Edge_Detected_Images_Complete_Dataset
 
