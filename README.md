@@ -1,6 +1,24 @@
 # UIWireframes2Mockup
 Solving a Computer Vision Problem of converting UI Wireframes to Mockups
 
+# Training the Model
+
+Go to CycleGanImpl
+
+Open the Jupyter Notebook : Wireframe 2 Mockups - Training
+
+Follow the Steps in the notebook
+
+Note: Visdom server will be hosted on port **8051**
+
+# For Testing
+
+Open the Jupyter Notebook: Wireframe 2 Mockups - Testing
+
+Follow the Steps
+
+the output would be found in the Results folder
+
 # Contents
 Edge_Detected_Images_300_Images
 
