@@ -68,8 +68,9 @@ To See the Ouptut Look at the Images tagged with 'fake_b' in their name in the I
 
 For any other Information please Directly contact:
 
-Sameer Shanbhag (mailto:sshanbh1@uncc.edu)
+[Sameer Shanbhag](mailto:sshanbh1@uncc.edu)
 
-Pranav Kamble (mailto:pkamble@uncc.edu)
+[Pranav Kamble](mailto:pkamble@uncc.edu)
 
+[Janani Arunachalam]()
 
